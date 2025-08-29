@@ -6,7 +6,6 @@
     "---Introduction---",
     "index",
     "troubleshooting",
-    "developer-updates",
     "---Usage---",
     "vscode",
     "cli",
@@ -20,6 +19,8 @@
     "models",
     "rules",
     "workflows",
-    "mcp"
+    "mcp",
+    "---Resources---",
+    "developer-updates"
   ]
 }
